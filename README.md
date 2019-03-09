@@ -1,3 +1,5 @@
+This is a temporary management program to test a react source
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
